@@ -30,5 +30,6 @@
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^4.1.0"
-  }
+  },
+  "devDependencies": {}
 }
