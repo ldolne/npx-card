@@ -5,5 +5,5 @@ Exercise based on [Leny's npx card](https://github.com/leny/npxcard), with an or
 Use via npx:
 
 ```
-npx ldolne
+npx @ldolne/npx-card
 ```
