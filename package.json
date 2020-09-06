@@ -1,0 +1,34 @@
+{
+  "name": "@ldolne/npx-card",
+  "version": "1.0.0",
+  "description": "A personal card for Laëtitia Dolne",
+  "main": "./index.js",
+  "bin": {
+    "ldolne": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldolne/npx-card.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "ldolne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldolne/npx-card/issues"
+  },
+  "homepage": "https://github.com/ldolne/npx-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
