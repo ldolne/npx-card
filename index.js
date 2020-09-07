@@ -23,7 +23,7 @@ const cardData = {
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("ldolne_lunahaya"),
     web: chalk.green("http://lunahaya.com/"),
     npm: chalk.gray("https://npmjs.com/") + chalk.red("~ldolne"),
-    npx: chalk.gray("npx") + " " + chalk.green("ldolne"),
+    npx: chalk.gray("npx") + " " + chalk.green("@ldolne/npx-card"),
 };
 
 // Lines
