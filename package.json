@@ -2,9 +2,9 @@
   "name": "@ldolne/npx-card",
   "version": "1.0.3",
   "description": "A personal card for Laëtitia Dolne",
-  "main": "index.js",
+  "main": "./index.js",
   "bin": {
-    "ldolne": "index.js"
+    "ldolne": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
