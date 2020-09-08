@@ -1,6 +1,6 @@
 {
   "name": "@ldolne/npx-card",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A personal card for Laëtitia Dolne",
   "main": "./index.js",
   "bin": {
